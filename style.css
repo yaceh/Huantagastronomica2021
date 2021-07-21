@@ -1041,7 +1041,7 @@ select::-ms-expand {
 	
 	/* - Footer Menu */
 	.footer-menu .ow-navigation .navbar-toggle {
-		background-color: #f3a316;
+		background-color: #3a179c;
 	}
 	.footer-menu .ow-navigation .navbar-toggle:hover {
 		background-color: transparent;
@@ -1050,7 +1050,7 @@ select::-ms-expand {
 		margin-top: -45px;
 	}
 	.footer-menu .ow-navigation .navbar-nav {
-		border-color: #f3a316;
+		border-color: #4918cf;
 	}
 	.footer-menu .ow-navigation .navbar-nav > li > a {
 		color: #fff;
